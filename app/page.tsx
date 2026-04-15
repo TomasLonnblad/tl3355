@@ -11,7 +11,9 @@ import Component2 from '@/components/navbar-menu-demo'
 
 export default function IndexPage() {
   return <>
+  <main>
   <AnimatedLanding />
         <Component2 />
+     </main>   
   </>
 }
