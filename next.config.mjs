@@ -4,11 +4,11 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'pbs.twimg.com',
+
       },
       {
         protocol: 'https',
-        hostname: 'storage.googleapis.com',
+     
       },
     ],
   },
